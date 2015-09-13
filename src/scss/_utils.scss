@@ -1,0 +1,41 @@
+//@mixin 
+@mixin font-primary{
+  font-family : $fonts-primary; 
+}
+@mixin font-secondary{
+  font-family : $fonts-secondary; 
+  font-size-adjust:0.48; 
+  font-weight:normal; 
+  font-style:normal; 
+}
+@mixin font-tertiary{
+  font-family  : $fonts-tertiary; 
+  font-size-adjust:0.49; 
+  font-weight:bold; 
+  font-style:normal; 
+}
+
+// Border Radius
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+@mixin vcenter{
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+
+  align-items: center;
+}
+
+@mixin vcenter-main{
+  position: relative;
+  margin: auto;
+}

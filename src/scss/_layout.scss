@@ -1,0 +1,14 @@
+// alignment alternative for bootstrap pull left and pull right
+
+.l-left{
+  float: left;
+}
+.l-right{
+  float: right;
+}
+.l-align-center{
+  text-align: center;
+}
+
+@import 'layout/header';
+@import 'layout/footer';

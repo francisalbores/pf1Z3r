@@ -1,0 +1,904 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"refres",
+				"refresh_comment_section"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"lef",
+				"leftHeight"
+			],
+			[
+				"ac",
+				"active-branch"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"first",
+				"first_li"
+			],
+			[
+				"st",
+				"stylesheets"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"curre",
+				"current_page_class"
+			],
+			[
+				"overlay",
+				"overlayColor"
+			],
+			[
+				"bak",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"width",
+				"widthScale"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"char",
+				"chart_array"
+			],
+			[
+				"chart",
+				"chartData"
+			],
+			[
+				"chr",
+				"chartData"
+			],
+			[
+				"ot",
+				"option	Tag"
+			],
+			[
+				"mongo",
+				"mongoose"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"share",
+				"shareAfterEntryPage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/scss/modules/_menu.scss",
+			"settings":
+			{
+				"buffer_size": 587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scss/modules/_two-column-entry.scss",
+			"settings":
+			{
+				"buffer_size": 822,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/modules/two-column-entry.jade",
+			"settings":
+			{
+				"buffer_size": 983,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scss/_vars.scss",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scss/_state.scss",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scss/modules/_branding.scss",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scss/modules/_search.scss",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls",
+			"git status",
+			"echo \"test\"",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/franzMacAir/NodeProjects/pfizer",
+		"/Users/franzMacAir/NodeProjects/pfizer/public/images",
+		"/Users/franzMacAir/NodeProjects/pfizer/public/stylesheets",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/js",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/js/modules",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/layout",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/modules",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/layout",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/mixins",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/modules"
+	],
+	"file_history":
+	[
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/modules/_two-column-entry.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/modules/colophon.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/modules/_colophon.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/modules/_three-column-thumbs.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/_modules.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/layout/footer.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/_base.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/_vars.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/_layout.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/layout/_header.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/layout/_footer.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/js/modules/2colentry.js",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/modules/three-column-thumbs.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/modules/two-column-entry.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/index.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/modules/standard-entry.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/modules/_standard-entry.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/Gruntfile.js",
+		"/Users/franzMacAir/NodeProjects/pfizer/public/javascripts/scripts.min.js",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/js/base.js",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/js/jquery.js",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/layout.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/modules/_hero.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/js/2colentry.js",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/lib/bootstrap/mixins/_grid.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/lib/bootstrap/mixins/_grid-framework.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/lib/bootstrap/_variables.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/lib/bootstrap/_utilities.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/modules/hero.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/modules/_menu.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/_utils.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/modules/_search.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/layout/header.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/modules/menu.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/lib/bootstrap/_grid.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/index.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/_state.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/modules/search.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/package.json",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/modules/_branding.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/error.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/_fonts.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/modules/branding.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/public/stylesheets/style.min.css",
+		"/Users/franzMacAir/NodeProjects/pfizer/public/javascripts/fonts.js",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/lib/_bootstrap.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/public/stylesheets/style.css",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/layout/main.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/views/mixins/lang.jade",
+		"/Users/franzMacAir/NodeProjects/pfizer/routes/index.js",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/_module/_nav.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/_layout/grid.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/mixins.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/states.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/site-settings.scss",
+		"/Users/franzMacAir/NodeProjects/pfizer/src/scss/layout/grid.scss",
+		"/Users/franzMacAir/NodeProjects/learn3/mma/routes/index.js",
+		"/Users/franzMacAir/NodeProjects/learn3/mma/public/javascripts/script.js",
+		"/Users/franzMacAir/NodeProjects/learn3/mma/views/pages/result.hjs",
+		"/Users/franzMacAir/NodeProjects/2016/views/index.hjs",
+		"/Users/franzMacAir/NodeProjects/2016/app.js",
+		"/Users/franzMacAir/NodeProjects/learn3/mma/app.js",
+		"/Users/franzMacAir/NodeProjects/fsn2015/bin/www",
+		"/Users/franzMacAir/NodeProjects/fsn2015/app.js",
+		"/Users/franzMacAir/NodeProjects/fsn2015/package.json",
+		"/Users/franzMacAir/NodeProjects/2016/package.json",
+		"/Users/franzMacAir/NodeProjects/2016/routes/index.js",
+		"/Users/franzMacAir/NodeProjects/2016/src/js/hogan.js",
+		"/Users/franzMacAir/NodeProjects/2016/src/js/comments.js",
+		"/Users/franzMacAir/NodeProjects/2016/views/candidate.hjs",
+		"/Users/franzMacAir/NodeProjects/2016/bin/www",
+		"/Users/franzMacAir/NodeProjects/learn3/mma/bin/www",
+		"/Users/franzMacAir/NodeProjects/fsn2015/routes/admin.js",
+		"/Users/franzMacAir/NodeProjects/2016/models/comment.js",
+		"/Users/franzMacAir/NodeProjects/fsn2015/src/fsn.js",
+		"/Users/franzMacAir/NodeProjects/fsn2015/models/index.js",
+		"/Users/franzMacAir/NodeProjects/fsn2015/models/entry.js",
+		"/Users/franzMacAir/NodeProjects/fsn2015/views/admin/index.jade",
+		"/Users/franzMacAir/NodeProjects/fsn2015/views/index.jade",
+		"/Users/franzMacAir/NodeProjects/fsn2015/views/layout.jade",
+		"/Users/franzMacAir/NodeProjects/fsn2015/views/image-slider.jade",
+		"/Users/franzMacAir/NodeProjects/fsn2015/views/error.jade",
+		"/Users/franzMacAir/NodeProjects/fsn2015/views/content.jade",
+		"/Users/franzMacAir/NodeProjects/fsn2015/views/browser-detect.jade",
+		"/Users/franzMacAir/NodeProjects/fsn2015/views/login/index.jade",
+		"/Users/franzMacAir/NodeProjects/2016/models/index.js",
+		"/Users/franzMacAir/NodeProjects/2016/models/person.js",
+		"/Users/franzMacAir/NodeProjects/2016/src/scss/_candidate.scss",
+		"/Users/franzMacAir/NodeProjects/2016/src/scss/_comments.scss",
+		"/Users/franzMacAir/NodeProjects/2016/Gruntfile.js",
+		"/Users/franzMacAir/NodeProjects/2016/src/scss/style.scss",
+		"/Users/franzMacAir/NodeProjects/bangonjuan/Gruntfile.js",
+		"/Users/franzMacAir/NodeProjects/bangonjuan/package.json",
+		"/Users/franzMacAir/NodeProjects/dibidogs/citycon-dibidogs-app/Gruntfile.js",
+		"/Users/franzMacAir/NodeProjects/2016/documentation.txt",
+		"/Users/franzMacAir/NodeProjects/bangonjuan/docs.txt",
+		"/Users/franzMacAir/NodeProjects/learn3/docs.txt",
+		"/Users/franzMacAir/NodeProjects/dibidogs/citycon-dibidogs-app/www/index.html",
+		"/Users/franzMacAir/NodeProjects/dibidogs/citycon-dibidogs-app/app/index.html",
+		"/Users/franzMacAir/NodeProjects/dibidogs/citycon-dibidogs-app/package.json",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules/solutions-op-ollie.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules/entries.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/js/modules/entries.js",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules/blog.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/lib/rowblock.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules/typography.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/style.css",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/lib/general.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules/entry-thumbnails.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/build.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/Gruntfile.js",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules/hero.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/airbus-hubspot.sublime-workspace",
+		"/Users/franzMacAir/NodeProjects/bangonjuan/src/js/scripts.js",
+		"/Users/franzMacAir/NodeProjects/bangonjuan/src/scss/animation.scss",
+		"/Users/franzMacAir/NodeProjects/bangonjuan/views/layout.jade",
+		"/Users/franzMacAir/NodeProjects/bangonjuan/src/scss/thoughts.scss",
+		"/Users/franzMacAir/NodeProjects/bangonjuan/src/scss/style.scss",
+		"/Users/franzMacAir/NodeProjects/dibidogs/citycon-dibidogs-app/app/modules/task/views/five.html",
+		"/Users/franzMacAir/Desktop/test/index2.html",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/templates/partials/blog-archive.html",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules/header.scss",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/js/modules/menu.js",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/files/js/scripts.min.js",
+		"/Users/franzMacAir/Desktop/test/index.html",
+		"/Users/franzMacAir/Desktop/test/magnific-popup.js",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/js/lib/jquery.js",
+		"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/js/lib/magnific-popup.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/franzMacAir/NodeProjects/pfizer/src/scss/lib/bootstrap",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss",
+			"/Users/franzMacAir/NodeProjects/dibidogs/citycon-dibidogs-app/app/modules/task/controllers",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/js",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/scss/modules",
+			"/Users/franzMacAir/HubSpotProjects/airbus/work/airbus-hubspot/src/js",
+			"/Users/franzMacAir/HubSpotProjects/demo/work/hubthemes/vast",
+			"/Users/franzMacAir/NodeProjects/airbus/src/scss/modules",
+			"/Users/franzMacAir/NodeProjects/airbus/views",
+			"/Users/franzMacAir/NodeProjects/airbus/src",
+			"/Users/franzMacAir/HubSpotProjects/learn1/work/hubthemes",
+			"/Applications/AMPPS/www/YourBaysideDentist/wp-content/themes/standard-theme",
+			"/Users/franzMacAir/NodeProjects/art-advisor",
+			"/Users/franzMacAir/NodeProjects/test",
+			"/Users/franzMacAir/NodeProjects/test/app/controllers",
+			"/Applications/AMPPS/www/YourBaysideDentist/wp-content/themes/standard-theme",
+			"/Users/franzMacAir/Node Projects/test",
+			"/Users/franzMacAir/Node Projects/test/app",
+			"/Users/franzMacAir/Node Projects/test/app/controllers",
+			"/Applications/AMPPS/www/YourBaysideDentist/wp-content/themes/standard-theme",
+			"/Applications/AMPPS/www/wordpress/wp-content/plugins/image_suite",
+			"/Applications/AMPPS/www/wordpress",
+			"/Users/franzMacAir/www/art-advisor",
+			"/Users/franzMacAir/www/test/public",
+			"/Users/franzMacAir/www/test",
+			"/Users/franzMacAir/fsn2015/views",
+			"/Users/franzMacAir/fsn2015/public/stylesheets",
+			"/Users/franzMacAir/fsn2015",
+			"/Users/franzMacAir/fsn2015/src",
+			"/Users/franzMacAir/fsn2015",
+			"/Users/franzMacAir/fsn2015/public/stylesheets",
+			"/Users/franzMacAir/fsn2015/public/stylesheets/includes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"24",
+			".m-2colentry--overlay",
+			"padding-le",
+			"padding",
+			"gutter",
+			"grid-gutter-width",
+			"container",
+			"continaer",
+			"http.",
+			"comments",
+			"response",
+			"http.get(",
+			"resultCont",
+			"jade",
+			"js",
+			"entries",
+			"entry",
+			"admin",
+			"get",
+			"http.get",
+			"default",
+			"watch",
+			"watch:",
+			"connect",
+			"loadNpmTasks",
+			"connect",
+			"loadNpmTasks",
+			"cssmin",
+			"sass",
+			"watch",
+			"connect",
+			"font-size",
+			"whitefont",
+			"#286090",
+			"gated_content",
+			"#204d74",
+			"gated_content",
+			"#286090",
+			"#204d74",
+			"#286090",
+			"entry-content",
+			".btn",
+			"max-width:630px",
+			"630px",
+			"solution-entries",
+			"age",
+			"Game",
+			"errorCounter",
+			"errorMessages",
+			"correct",
+			"part",
+			"./Homepage_files",
+			"entry_odd(",
+			"height:",
+			"settimeout",
+			"search",
+			"b.find",
+			"mfp-bg",
+			"h1",
+			"mobile-fea",
+			"mobile-menu-toggle",
+			"leftheight",
+			"whitefont",
+			"row-fluid-wrapper",
+			"whitefont",
+			"#hs_menu_wrapper_m-menu",
+			"hs_menu_wrapper_m-menu",
+			"hs-link-logo",
+			"#hs_menu_wrapper_m-menu",
+			"#",
+			"white",
+			".page",
+			"map",
+			">\n",
+			"widget_data",
+			"fa-plus-square",
+			"click",
+			"toggleSubNavi",
+			"src",
+			"over",
+			"hover",
+			"toggleSubNavi",
+			"click",
+			"ab-navbar-nav",
+			".btn",
+			"1e3",
+			"rowblockEntry",
+			"entryThumb",
+			"hubspot-metadata",
+			"font-face",
+			"<body>",
+			"rowblock",
+			"vcenter",
+			".fa",
+			"social",
+			"block",
+			"console.log",
+			"m-menu",
+			"hover",
+			"ab-nav-item",
+			"hover",
+			"isMobile",
+			"ab-nav-item",
+			"#",
+			"#mobile-menu-toggle",
+			"mobile-menu-toggle",
+			"&",
+			"&.",
+			"}\n",
+			".ab-navbar ",
+			".ab-navbar",
+			".navbar",
+			"mobile-menu-toggle",
+			"whitefont",
+			"white",
+			"toggleSubNavi",
+			"href",
+			"mobile-menu-toggle",
+			"param",
+			"console.log",
+			"show",
+			"art show",
+			"opacity",
+			"div",
+			"arcs",
+			"arc",
+			"arcTween",
+			"stroke"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/scss/modules/_menu.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/scss/modules/_two-column-entry.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/modules/two-column-entry.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								814,
+								860
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/scss/_vars.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/scss/_state.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/scss/modules/_branding.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/scss/modules/_search.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "pfizer.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/NodeProjects/airbus/DOCS/airbus.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

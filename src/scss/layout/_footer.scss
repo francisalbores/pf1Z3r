@@ -1,0 +1,15 @@
+.l-footer{
+  padding-top: 55px;
+  padding-bottom: 55px;
+  background: url(../images/bg-pattern.jpg);
+  font-size: 19px;
+  img{
+    @extend .l-left;
+    margin-right: 80px;
+    margin-top: -20px;
+  }
+  .copyright{
+    @extend .l-right;
+    color: #616365;
+  }
+}

@@ -1,0 +1,23 @@
+.m-branding{
+  position: relative;
+  top: 30px;
+  @extend .l-left;
+  &--site-logo{
+    background: url(../images/pfizer-logo.png) no-repeat;
+    width:105px;
+    height: 81px;
+    display: inline-block;
+  }
+  &--site-title{
+    font-family: $fonts-primary;
+    font-size: 54px;
+    color: #fff;
+
+    position: relative;
+    left: 30px;
+    top: -15px;
+    @media (max-width: 992px){
+      display: none;
+    }
+  }
+}

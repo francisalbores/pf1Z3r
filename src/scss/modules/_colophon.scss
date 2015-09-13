@@ -1,0 +1,15 @@
+.m-colophon{
+  font-size: 19px;
+  color: #0093d0;
+  @extend .l-left;
+  a{
+    margin-right: 5px;
+    margin-left: 5px;
+    &:first-child{
+      margin-left: 0;
+    }
+    &:last-child{
+      margin-right: 0;
+    }
+  }
+}

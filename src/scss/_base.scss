@@ -1,0 +1,41 @@
+// Default Typography
+// Rules : no class should be here instead of having a good reason. =)
+*{
+  vertical-align: top;
+}
+body{
+  font-family:$fonts-secondary;
+  font-size: 23px;
+  color: #999;
+}
+a{
+  color: #0093d0;
+  &:hover{
+    text-decoration: none;
+    // color:
+  }
+}
+p{
+  line-height: 1.4;
+}
+ul, ol{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+// Typo
+h1{
+  font-family: $fonts-tertiary;
+  font-size: 72px;
+}
+h2{
+  font-family: $fonts-tertiary;
+  font-size: 47px;
+  margin-bottom: 40px;
+}
+h3{
+  font-family: $fonts-tertiary;
+  font-size: 35px;
+}
+

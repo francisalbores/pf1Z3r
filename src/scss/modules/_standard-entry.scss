@@ -1,0 +1,15 @@
+.m-standard-entry{
+  background: url(../images/bg-pattern.jpg);
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  &--image{}
+  &--title{
+    color: #0093d0;
+  }
+  &--copy{
+    margin: auto;
+    max-width: 760px;
+    text-align: center;
+  }
+}
