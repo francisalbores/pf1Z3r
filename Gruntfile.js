@@ -24,6 +24,7 @@ module.exports = function(grunt) {
         files : {
           'public/javascripts/scripts.min.js' : [
             'src/js/jquery.js',
+            'src/js/modernizr.js',
             'src/js/base.js',
             'src/js/modules/*.js'
           ]
@@ -37,7 +38,7 @@ module.exports = function(grunt) {
     },
     watch: {
       script : {
-        files : ['src/js/*.js'],
+        files : ['src/js/*.js','src/js/*/*.js'],
         tasks : ['uglify']  
       },
       style : {

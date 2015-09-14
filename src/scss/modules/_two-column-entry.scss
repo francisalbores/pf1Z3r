@@ -1,11 +1,17 @@
 .m-2colentry{
   padding-top: 50px;
   padding-bottom: 50px;
+  @media (max-width: 992px){
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
   &--entry{
     @extend .col-md-6;
     @include border-radius(3px);
     overflow: hidden;
     @media (max-width: 992px){
+      padding-left: 0;
+      padding-right: 0;
       margin-bottom: 20px;
       &:last-child{
         margin-bottom: 0;
@@ -14,13 +20,21 @@
   }
   &--overlay{
     position: absolute;
-    top: 0;
+    top: 400px;
     left: $gutter;
     background-color: rgba(125,186,0,0.8);
     width:100%;
     height: 100%;
+    z-index: 1;
+    @include transition(all, 0.5s, ease-in-out);
     @include vcenter;
     @include border-radius(3px);
+    @media (max-width: 992px){
+      display: none;
+    }
+  }
+  &--main{
+    position: relative;
   }
   &--copy{
     color: #fff;
@@ -41,5 +55,14 @@
     color: #fff;
     width: 100%;
     display: block;
+    @include transition(all, 0.5s, ease-in-out);
+  }
+  &--excerpt{
+    font-size: 16px;
+    padding:30px 20px;
+    text-align: center;
+    color: #fff;
+    &.a{ background-color: #7dba00; }
+    &.b{ background-color: #0093d0; }
   }
 }

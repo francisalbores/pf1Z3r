@@ -7,6 +7,9 @@ body{
   font-family:$fonts-secondary;
   font-size: 23px;
   color: #999;
+  @media (max-width: 992px){
+    font-size:17px;
+  }
 }
 a{
   color: #0093d0;
@@ -17,6 +20,9 @@ a{
 }
 p{
   line-height: 1.4;
+  @media (max-width: 992px){
+    line-height: 1.6;
+  }
 }
 ul, ol{
   padding: 0;
@@ -28,14 +34,23 @@ ul, ol{
 h1{
   font-family: $fonts-tertiary;
   font-size: 72px;
+  @media (max-width: 992px){
+   font-size: 36px; 
+  }
 }
 h2{
   font-family: $fonts-tertiary;
   font-size: 47px;
   margin-bottom: 40px;
+  @media (max-width: 992px){
+    font-size: 36px; 
+  }
 }
 h3{
   font-family: $fonts-tertiary;
   font-size: 35px;
+  @media (max-width: 992px){
+    font-size: 24px; 
+  }
 }
 

@@ -39,3 +39,9 @@
   position: relative;
   margin: auto;
 }
+
+@mixin transition($el, $se, $es) {
+  -webkit-transition: $el $se $es;
+  -moz-transition: $el $se $es;
+  -o-transition: $el $se $es;
+}
